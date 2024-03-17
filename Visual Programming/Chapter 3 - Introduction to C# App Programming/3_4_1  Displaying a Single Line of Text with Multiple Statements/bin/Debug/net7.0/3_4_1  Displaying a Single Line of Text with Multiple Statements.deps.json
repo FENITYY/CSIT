@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "3_4_1  Displaying a Single Line of Text with Multiple Statements/1.0.0": {
+        "runtime": {
+          "3_4_1  Displaying a Single Line of Text with Multiple Statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_4_1  Displaying a Single Line of Text with Multiple Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/bin/Debug/net7.0/6_3 for iteration Statement
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/bin/Debug/net7.0/6_3 for iteration Statement.deps.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/bin/Debug/net7.0/6_3 for iteration Statement.runtimeconfig.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/bin/Debug/net7.0/6_3 for iteration Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/bin/Debug/net7.0/6_3 for iteration Statement.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.csproj.AssemblyReference.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.AssemblyInfoInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.AssemblyInfo.cs
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/refint/6_3 for iteration Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/6_3 for iteration Statement.genruntimeconfig.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_3 for iteration Statement/obj/Debug/net7.0/ref/6_3 for iteration Statement.dll

@@ -1,0 +1,17 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\bin\Debug\net7.0-windows\NLE2_11.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\bin\Debug\net7.0-windows\NLE2_11.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\bin\Debug\net7.0-windows\NLE2_11.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\bin\Debug\net7.0-windows\NLE2_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\bin\Debug\net7.0-windows\NLE2_11.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.Form1.resources
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.Properties.Resources.resources
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.csproj.GenerateResource.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\refint\NLE2_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\NLE2_11.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NLE2_11\obj\Debug\net7.0-windows\ref\NLE2_11.dll

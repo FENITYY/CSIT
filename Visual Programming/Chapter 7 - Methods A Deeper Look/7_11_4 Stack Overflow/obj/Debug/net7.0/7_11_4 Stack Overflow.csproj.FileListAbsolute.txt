@@ -1,0 +1,15 @@
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/bin/Debug/net7.0/7_11_4 Stack Overflow
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/bin/Debug/net7.0/7_11_4 Stack Overflow.deps.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/bin/Debug/net7.0/7_11_4 Stack Overflow.runtimeconfig.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/bin/Debug/net7.0/7_11_4 Stack Overflow.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/bin/Debug/net7.0/7_11_4 Stack Overflow.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.csproj.AssemblyReference.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.AssemblyInfoInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.AssemblyInfo.cs
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/refint/7_11_4 Stack Overflow.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/7_11_4 Stack Overflow.genruntimeconfig.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 7 - Methods A Deeper Look/7_11_4 Stack Overflow/obj/Debug/net7.0/ref/7_11_4 Stack Overflow.dll

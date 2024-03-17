@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "6_9 Class AutoPolicy Case Study - strings in switch Statements/1.0.0": {
+        "runtime": {
+          "6_9 Class AutoPolicy Case Study - strings in switch Statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6_9 Class AutoPolicy Case Study - strings in switch Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

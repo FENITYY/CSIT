@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\bin\Debug\net7.0\E3_15.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\bin\Debug\net7.0\E3_15.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\bin\Debug\net7.0\E3_15.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\bin\Debug\net7.0\E3_15.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\bin\Debug\net7.0\E3_15.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\refint\E3_15.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\E3_15.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_15\obj\Debug\net7.0\ref\E3_15.dll

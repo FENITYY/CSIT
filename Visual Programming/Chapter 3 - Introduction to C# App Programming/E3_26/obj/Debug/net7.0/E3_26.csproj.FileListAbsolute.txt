@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\bin\Debug\net7.0\E3_26.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\bin\Debug\net7.0\E3_26.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\bin\Debug\net7.0\E3_26.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\bin\Debug\net7.0\E3_26.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\bin\Debug\net7.0\E3_26.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\refint\E3_26.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\E3_26.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_26\obj\Debug\net7.0\ref\E3_26.dll

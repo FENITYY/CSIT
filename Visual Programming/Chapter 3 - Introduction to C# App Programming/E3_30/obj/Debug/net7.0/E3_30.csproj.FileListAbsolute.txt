@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\bin\Debug\net7.0\E3_30.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\bin\Debug\net7.0\E3_30.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\bin\Debug\net7.0\E3_30.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\bin\Debug\net7.0\E3_30.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\bin\Debug\net7.0\E3_30.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\refint\E3_30.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\E3_30.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_30\obj\Debug\net7.0\ref\E3_30.dll

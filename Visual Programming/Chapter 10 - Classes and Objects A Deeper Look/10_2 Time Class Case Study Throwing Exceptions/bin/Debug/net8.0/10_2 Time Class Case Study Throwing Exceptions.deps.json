@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10_2 Time Class Case Study Throwing Exceptions/1.0.0": {
+        "runtime": {
+          "10_2 Time Class Case Study Throwing Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_2 Time Class Case Study Throwing Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.csproj.AssemblyReference.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.AssemblyInfoInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.AssemblyInfo.cs
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/bin/Debug/net7.0/Code
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/bin/Debug/net7.0/Code.deps.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/bin/Debug/net7.0/Code.runtimeconfig.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/bin/Debug/net7.0/Code.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/bin/Debug/net7.0/Code.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/refint/Code.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/Code.genruntimeconfig.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 5 - Algorithm Development and Control Statements - Part 1/E5_17/Code/obj/Debug/net7.0/ref/Code.dll

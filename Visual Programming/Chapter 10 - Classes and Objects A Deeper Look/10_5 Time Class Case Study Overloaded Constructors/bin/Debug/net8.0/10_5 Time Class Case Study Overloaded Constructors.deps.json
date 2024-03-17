@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10_5 Time Class Case Study Overloaded Constructors/1.0.0": {
+        "runtime": {
+          "10_5 Time Class Case Study Overloaded Constructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_5 Time Class Case Study Overloaded Constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

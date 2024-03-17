@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "4_8 Account Class - Initializing Objects with Constructors/1.0.0": {
+        "runtime": {
+          "4_8 Account Class - Initializing Objects with Constructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_8 Account Class - Initializing Objects with Constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

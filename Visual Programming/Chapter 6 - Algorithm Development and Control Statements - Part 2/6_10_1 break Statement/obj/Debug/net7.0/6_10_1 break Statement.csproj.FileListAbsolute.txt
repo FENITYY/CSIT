@@ -1,0 +1,15 @@
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/bin/Debug/net7.0/6_10_1 break Statement
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/bin/Debug/net7.0/6_10_1 break Statement.deps.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/bin/Debug/net7.0/6_10_1 break Statement.runtimeconfig.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/bin/Debug/net7.0/6_10_1 break Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/bin/Debug/net7.0/6_10_1 break Statement.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.csproj.AssemblyReference.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.AssemblyInfoInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.AssemblyInfo.cs
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/refint/6_10_1 break Statement.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/6_10_1 break Statement.genruntimeconfig.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 6 - Algorithm Development and Control Statements - Part 2/6_10_1 break Statement/obj/Debug/net7.0/ref/6_10_1 break Statement.dll

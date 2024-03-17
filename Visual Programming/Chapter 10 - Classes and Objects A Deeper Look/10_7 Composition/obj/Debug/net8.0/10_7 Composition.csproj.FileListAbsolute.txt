@@ -1,0 +1,15 @@
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/bin/Debug/net8.0/10_7 Composition
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/bin/Debug/net8.0/10_7 Composition.deps.json
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/bin/Debug/net8.0/10_7 Composition.runtimeconfig.json
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/bin/Debug/net8.0/10_7 Composition.dll
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/bin/Debug/net8.0/10_7 Composition.pdb
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.AssemblyInfoInputs.cache
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.AssemblyInfo.cs
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.sourcelink.json
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.dll
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/refint/10_7 Composition.dll
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.pdb
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/10_7 Composition.genruntimeconfig.cache
+/home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_7 Composition/obj/Debug/net8.0/ref/10_7 Composition.dll

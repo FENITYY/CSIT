@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "5_13_1  Prefix Increment vs. Postfix Increment/1.0.0": {
+        "runtime": {
+          "5_13_1  Prefix Increment vs. Postfix Increment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_13_1  Prefix Increment vs. Postfix Increment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

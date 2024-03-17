@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\bin\Debug\net7.0\E3_18.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\bin\Debug\net7.0\E3_18.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\bin\Debug\net7.0\E3_18.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\bin\Debug\net7.0\E3_18.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\bin\Debug\net7.0\E3_18.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\refint\E3_18.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\E3_18.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_18\obj\Debug\net7.0\ref\E3_18.dll

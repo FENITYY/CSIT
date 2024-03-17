@@ -1,0 +1,15 @@
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.csproj.AssemblyReference.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.GeneratedMSBuildEditorConfig.editorconfig
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.AssemblyInfoInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.AssemblyInfo.cs
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.csproj.CoreCompileInputs.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/bin/Debug/net7.0/3_6 Another C# App - Adding Integers
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/bin/Debug/net7.0/3_6 Another C# App - Adding Integers.deps.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/bin/Debug/net7.0/3_6 Another C# App - Adding Integers.runtimeconfig.json
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/bin/Debug/net7.0/3_6 Another C# App - Adding Integers.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/bin/Debug/net7.0/3_6 Another C# App - Adding Integers.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/refint/3_6 Another C# App - Adding Integers.dll
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.pdb
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/3_6 Another C# App - Adding Integers.genruntimeconfig.cache
+/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 3 - Introduction to C# App Programming/3_6 Another C# App - Adding Integers/obj/Debug/net7.0/ref/3_6 Another C# App - Adding Integers.dll

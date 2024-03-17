@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDE4_14", "MDE4_14.csproj", "{640865DF-72BC-415D-AD73-7E33D4BBD617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640865DF-72BC-415D-AD73-7E33D4BBD617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640865DF-72BC-415D-AD73-7E33D4BBD617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640865DF-72BC-415D-AD73-7E33D4BBD617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640865DF-72BC-415D-AD73-7E33D4BBD617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599F31A2-5DF8-400B-A1B0-631EFD724B3D}
+	EndGlobalSection
+EndGlobal

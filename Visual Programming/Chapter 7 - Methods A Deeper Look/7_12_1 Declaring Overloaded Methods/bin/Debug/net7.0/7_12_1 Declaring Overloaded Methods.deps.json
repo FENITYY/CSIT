@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "7_12_1 Declaring Overloaded Methods/1.0.0": {
+        "runtime": {
+          "7_12_1 Declaring Overloaded Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_12_1 Declaring Overloaded Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

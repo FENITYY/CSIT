@@ -1,0 +1,17 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\bin\Debug\net7.0-windows\NRE2_8.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\bin\Debug\net7.0-windows\NRE2_8.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\bin\Debug\net7.0-windows\NRE2_8.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\bin\Debug\net7.0-windows\NRE2_8.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\bin\Debug\net7.0-windows\NRE2_8.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.Form1.resources
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.csproj.GenerateResource.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\refint\NRE2_8.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\ref\NRE2_8.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 2 - Introduction to Visual Studio and Visual Programming\NRE2_8\obj\Debug\net7.0-windows\NRE2_8.Properties.Resources.resources

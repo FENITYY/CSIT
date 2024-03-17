@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "4_9 Account Class with a Balance - Processing Monetary Amounts/1.0.0": {
+        "runtime": {
+          "4_9 Account Class with a Balance - Processing Monetary Amounts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_9 Account Class with a Balance - Processing Monetary Amounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

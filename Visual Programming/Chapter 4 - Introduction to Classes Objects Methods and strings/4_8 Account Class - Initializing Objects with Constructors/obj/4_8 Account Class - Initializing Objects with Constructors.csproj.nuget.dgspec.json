@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 4 - Introduction to Classes Objects Methods and strings/4_8 Account Class - Initializing Objects with Constructors/4_8 Account Class - Initializing Objects with Constructors.csproj": {}
+  },
+  "projects": {
+    "/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 4 - Introduction to Classes Objects Methods and strings/4_8 Account Class - Initializing Objects with Constructors/4_8 Account Class - Initializing Objects with Constructors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 4 - Introduction to Classes Objects Methods and strings/4_8 Account Class - Initializing Objects with Constructors/4_8 Account Class - Initializing Objects with Constructors.csproj",
+        "projectName": "4_8 Account Class - Initializing Objects with Constructors",
+        "projectPath": "/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 4 - Introduction to Classes Objects Methods and strings/4_8 Account Class - Initializing Objects with Constructors/4_8 Account Class - Initializing Objects with Constructors.csproj",
+        "packagesPath": "/home/karsterr/.nuget/packages/",
+        "outputPath": "/home/karsterr/Programming/CSIT/CSIT-Visual-Programming/Chapter 4 - Introduction to Classes Objects Methods and strings/4_8 Account Class - Initializing Objects with Constructors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/karsterr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

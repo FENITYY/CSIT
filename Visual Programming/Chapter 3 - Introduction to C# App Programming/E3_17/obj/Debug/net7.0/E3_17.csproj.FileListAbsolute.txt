@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\bin\Debug\net7.0\E3_17.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\bin\Debug\net7.0\E3_17.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\bin\Debug\net7.0\E3_17.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\bin\Debug\net7.0\E3_17.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\bin\Debug\net7.0\E3_17.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\refint\E3_17.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\E3_17.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 3 - Introduction to C# App Programming\E3_17\obj\Debug\net7.0\ref\E3_17.dll

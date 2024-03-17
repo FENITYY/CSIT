@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\bin\Debug\net7.0\MDE4_14.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\bin\Debug\net7.0\MDE4_14.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\bin\Debug\net7.0\MDE4_14.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\bin\Debug\net7.0\MDE4_14.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\bin\Debug\net7.0\MDE4_14.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\refint\MDE4_14.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\MDE4_14.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\MDE4_14\obj\Debug\net7.0\ref\MDE4_14.dll

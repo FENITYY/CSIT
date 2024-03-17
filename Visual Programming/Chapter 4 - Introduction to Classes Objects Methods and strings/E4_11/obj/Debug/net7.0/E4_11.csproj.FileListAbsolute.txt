@@ -1,0 +1,14 @@
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.AssemblyInfoInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.AssemblyInfo.cs
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.csproj.CoreCompileInputs.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\bin\Debug\net7.0\E4_11.exe
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\bin\Debug\net7.0\E4_11.deps.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\bin\Debug\net7.0\E4_11.runtimeconfig.json
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\bin\Debug\net7.0\E4_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\bin\Debug\net7.0\E4_11.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\refint\E4_11.dll
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.pdb
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\E4_11.genruntimeconfig.cache
+C:\Users\KARSTERR\Programming\CSIT-Visual-Programming\Chapter 4 - Introduction to Classes Objects Methods and strings\E4_11\obj\Debug\net7.0\ref\E4_11.dll
