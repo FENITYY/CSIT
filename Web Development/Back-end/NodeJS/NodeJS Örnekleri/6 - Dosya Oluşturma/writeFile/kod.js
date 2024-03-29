@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-fs.appendFile('text.txt', 'NodeJS is awesome!', function (err) {
+fs.writeFile('metin.txt', 'Merhaba!', function (err) {
     if (err) throw err;
     console.log('Saved!');
 }); 
