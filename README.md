@@ -1,5 +1,5 @@
 # **CSIT**
-CSIT, Bilişim Sistemleri ve Teknolojileri bölümünde öğrendiğim bilgilerin bir derlemesini içeren bir depodur.
+CSIT, Bilişim Sistemleri ve Teknolojileri bölümünde bilgisayar ve programlama odaklı derslerden öğrendiğim bilgilerin bir derlemesini içeren bir depodur.
 
 # **İçindekiler**
 
